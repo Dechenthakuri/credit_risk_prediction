@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: credit risk analysis"
+git branch -M main
+git remote add origin https://github.com/yourusername/credit-risk-prediction.git
+git push -u origin main
